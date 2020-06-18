@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592516390791.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2368238996",
+    "id" : "95F24E84",
+    "lastKnownWriteTime" : 1592515073,
+    "last_content_update" : 1592515073,
+    "path" : "~/GitHub/Data-Science/ML Udemy/Part 3 - Classification/Section 14 - Logistic Regression/R/LOGRegression.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "21,2",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
